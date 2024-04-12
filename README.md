@@ -10,10 +10,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=yellow)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=yellow)
 
-## Preview
-
-![Preview do projeto]("/img/print-calcstorm.PNG")
-
 ## Licença
 <p align="justify">
   Este projeto é licenciado pelo <a href="LICENSE">MIT</a>
