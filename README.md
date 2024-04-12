@@ -12,7 +12,7 @@
 
 ## Preview
 
-<img href="img/print-calcstorm.PNG" alt="Preview do projeto">
+<img href="img/print-calcstorm.png" alt="Preview do projeto">
 
 ## Licença
 <p align="justify">
