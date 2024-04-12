@@ -6,6 +6,6 @@
 
 ## Ferramentas utilizadas
 
-![HTML](https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html&logoColor=yellow)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css&logoColor=yellow)
+![HTML](https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5&logoColor=yellow)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=yellow)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=yellow)
