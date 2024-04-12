@@ -12,6 +12,8 @@
 
 ## Preview
 
+<img href="img/print-calcstorm.PNG" alt="Preview do projeto">
+
 ## Licença
 <p align="justify">
   Este projeto é licenciado pelo <a href="LICENSE">MIT</a>
