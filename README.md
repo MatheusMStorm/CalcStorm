@@ -11,3 +11,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=yellow)
 
 ## Preview
+
+## Licença
+<p align="justify">
+  Este projeto é licenciado pelo <a href="LICENSE">MIT</a>
+</p>
